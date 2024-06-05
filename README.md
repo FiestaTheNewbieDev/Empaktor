@@ -2,8 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-grey?style=flat-square&logo=python)
 ![Version](https://img.shields.io/badge/2.1.0-green?style=flat-square&label=Version)
-![Clément Fossorier](https://img.shields.io/badge/Clément_Fossorier-blue?style=flat-square)
-![Olivier Vo](https://img.shields.io/badge/Olivier_Vo-blue?style=flat-square)
 
 ## Sommaire
 
