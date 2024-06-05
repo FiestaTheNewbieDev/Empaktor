@@ -127,4 +127,4 @@ Documentation de chacun des algorithmes de compression utilisés:
 - [Huffman Encoding](empaktor/cmp_huffman/huffman.md)
 
 ## Auteurs
-**Clément FOSSORIER**(fossor_c) & **Olivier VO**(vo_o)
+[**Clément FOSSORIER**](https://github.com/FiestaTheNewbieDev) & [**Olivier VO**](https://github.com/vo-olivier250405)
