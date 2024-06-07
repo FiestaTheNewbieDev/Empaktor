@@ -1,3 +1,4 @@
+![ETNA](https://etna.io/wp-content/themes/etna-refonte-theme/assets/images/logo-etna.png)
 <h1 align="center">EMPAKTOR</h1>
 
 ![Python](https://img.shields.io/badge/Python-grey?style=flat-square&logo=python)
